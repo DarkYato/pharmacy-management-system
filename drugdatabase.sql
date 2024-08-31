@@ -1,0 +1,1 @@
+SELECT * FROM test101.drugs;
